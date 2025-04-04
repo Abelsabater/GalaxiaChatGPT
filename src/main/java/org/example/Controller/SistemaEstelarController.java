@@ -29,7 +29,7 @@ public class SistemaEstelarController {
      */
     public void gestionarSistemas(Scanner scanner) {
         int opcion=0;
-        while (opcion!=5) {
+        while (opcion!=6) {
             System.out.println("\nGestionar Sistemas Estelares:");
             System.out.println("1. Crear Sistema Estelar");
             System.out.println("2. Listar Sistemas Estelares");
