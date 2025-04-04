@@ -54,6 +54,7 @@ public class NaveController {
                     break;
                 case 6:
                     cambiarPlanetasDeNave(scanner);
+                    break;
                 case 7:
                     return;
                 default:
