@@ -23,7 +23,7 @@ public class NaveController {
      */
     public void gestionarNaves(Scanner scanner) {
         int opcion=0;
-        while (opcion!=6) {
+        while (opcion!=7) {
             System.out.println("\nGestionar Naves:");
             System.out.println("1. Crear Nave");
             System.out.println("2. Listar Naves");
