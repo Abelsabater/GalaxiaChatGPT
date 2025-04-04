@@ -31,7 +31,7 @@ public class PlanetaController {
      */
     public void gestionarPlanetas(Scanner scanner) {
         int opcion=0;
-        while (opcion!=6) {
+        while (opcion!=7) {
             System.out.println("\nGestionar Planetas:");
             System.out.println("1. Crear Planeta");
             System.out.println("2. Listar Planetas");
